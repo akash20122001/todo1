@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1075106138386",
+    "firebase_url": "https://chatapp-916fa-default-rtdb.firebaseio.com",
+    "project_id": "chatapp-916fa",
+    "storage_bucket": "chatapp-916fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075106138386:android:9266a4ff4d5b25bde64bcb",
+        "android_client_info": {
+          "package_name": "com.example.todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075106138386-gbtpbiguu3uun3b0rdapqnaenad39bro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOOmPHJ4kKbzY4me7wQiXmA805mV2Eya4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075106138386-gbtpbiguu3uun3b0rdapqnaenad39bro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
